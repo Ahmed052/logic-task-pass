@@ -1,0 +1,3 @@
+def rem(str, char):
+    str = str.replace(char, "")
+    return str
